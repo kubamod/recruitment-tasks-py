@@ -46,7 +46,7 @@ def postal_code_generator(first_postal_code: str, second_postal_code: str):
 
 
 
-def task_nr_3(elements, n: str):
+def task_nr_2(elements, n: str):
     numbers = []
     for i in range(1, n + 1):
         if i not in elements:
