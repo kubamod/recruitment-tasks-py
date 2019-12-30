@@ -1,4 +1,4 @@
-# recruitment-tasks-py
+# Recruitment tasks for ANSTA | Smart Solutions
 
 **ZADANIE 1. GENERATOR KODÓW POCZTOWYCH:**
   
